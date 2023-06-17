@@ -1,0 +1,21 @@
+{
+  "name": "line-bot",
+  "version": "1.0.0",
+  "description": "clasp client remote line-bot repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "clasp -v",
+    "login": "clasp login",
+    "clone": "clasp clone 1E2E9naNK2cYcYkJFRUInBTik-vKl5E6t8RNvsyIab08ocpLgu5vmiO_Z"
+  },
+  "keywords": [
+    "GAS",
+    "Line-bot",
+    "webhook"
+  ],
+  "author": "gb_sources",
+  "license": "MIT",
+  "dependencies": {
+    "@google/clasp": "^2.4.2"
+  }
+}
